@@ -1,31 +1,11 @@
 services:
-  db:
-    image: mcr.microsoft.com/mssql/server:2019-latest
-    container_name: ada_db
-    environment:
-      SA_PASSWORD: ${DB_PASSWORD:-alten_123}
-      ACCEPT_EULA: "Y"
-      MSSQL_PID: Developer
-    ports:
-      - "1433:1433"
-    volumes:
-      - mssql_data:/var/opt/mssql
-    healthcheck:
-      test: ["CMD-SHELL", "/opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P '${DB_PASSWORD:-alten_123}' -Q 'SELECT 1' || /opt/mssql-tools18/bin/sqlcmd -S localhost -U sa -P '${DB_PASSWORD:-alten_123}' -Q 'SELECT 1' -No"]
-      interval: 15s
-      retries: 10
-      start_period: 45s
-
   backend:
     build:
       context: ./ADA_backend
     container_name: ada_backend
-    depends_on:
-      db:
-        condition: service_healthy
     environment:
       NODE_ENV: production
-      DB_HOST: db
+      DB_HOST: ${DB_HOST}
       DB_PORT: 1433
       DB_NAME: ${DB_NAME:-ada_db}
       DB_USER: ${DB_USER:-sa}
@@ -37,6 +17,8 @@ services:
     ports:
       - "5000:5000"
     restart: unless-stopped
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
 
   frontend:
     build:
@@ -50,6 +32,3 @@ services:
     ports:
       - "80:80"
     restart: unless-stopped
-
-volumes:
-  mssql_data:
