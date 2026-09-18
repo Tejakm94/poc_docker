@@ -1,0 +1,10 @@
+{
+  "description": "Efficiently manage ADA data with a professional web application designed for aviation and defense sectors, featuring robust CRUD functionalities and comprehensive reporting.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

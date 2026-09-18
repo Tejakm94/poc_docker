@@ -1,0 +1,347 @@
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:47:39.828Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T11:47:39.852Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T11:47:39.859Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:47:39.882Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:47:39.973Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:47:39.998Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T11:47:40.002Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T11:47:40.004Z"}
+{"level":"info","message":"CREATE REMOTE TERMINAL MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:48:40.352Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:48:40.624Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:48:42.602Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:48:42.607Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:48:42.632Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:48:42.635Z"}
+{"level":"info","message":"IMPORT MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:49:27.731Z"}
+{"level":"info","message":"IMPORT MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:51:23.394Z"}
+{"level":"info","message":"IMPORT MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:51:24.892Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:51:28.597Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:51:28.603Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:51:28.668Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:51:28.670Z"}
+{"level":"info","message":"IMPORT MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:52:00.245Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:52:10.268Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:52:10.274Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:52:10.346Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:52:10.377Z"}
+{"level":"info","message":"IMPORT MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T11:58:03.024Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T12:33:59.779Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T12:33:59.804Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T12:33:59.809Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T12:33:59.814Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T12:33:59.926Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T12:33:59.960Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T12:33:59.962Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T12:33:59.964Z"}
+{"level":"info","message":"CREATE REMOTE TERMINAL MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T12:34:25.943Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T12:34:26.228Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:36:45.123Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:36:45.144Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:36:45.149Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:36:45.157Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:36:45.228Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:36:45.231Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:36:45.233Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:36:45.280Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:36:54.018Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:36:54.024Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:36:54.026Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:36:54.035Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:36:54.073Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:36:54.075Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:36:54.075Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:36:54.077Z"}
+{"level":"info","message":"CREATE REMOTE TERMINAL MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:37:14.592Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:37:14.778Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:37:16.545Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:37:16.550Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:37:16.561Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:37:16.576Z"}
+{"level":"info","message":"IMPORT MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:37:33.615Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:37:39.681Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:37:39.688Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:37:39.690Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:37:39.691Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:37:39.695Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:37:39.718Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:37:39.719Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:37:39.732Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:37:46.329Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:37:46.336Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:37:46.338Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:37:46.342Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:37:46.379Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:37:46.390Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:37:46.391Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:37:46.392Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:37:50.946Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:37:50.949Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:37:50.954Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:37:50.955Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:37:50.982Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:37:50.985Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:37:50.986Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:37:50.987Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:38:27.581Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:38:27.584Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:38:27.586Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:38:27.594Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:38:27.631Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:38:27.641Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:38:27.642Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:38:27.643Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:38:31.187Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:38:31.193Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:38:31.196Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:38:31.197Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:38:31.206Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:38:31.221Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:38:31.224Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:38:31.226Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:39:57.198Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:39:57.212Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:39:57.215Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:39:57.217Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:39:57.246Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:01.806Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:01.810Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:01.836Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:01.840Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:03.084Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:03.087Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:40:03.089Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:40:03.091Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:03.141Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:40:03.144Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:03.148Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:40:03.149Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:10.281Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:10.287Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:40:10.289Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:40:10.290Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:10.323Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:10.324Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:40:10.333Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:40:10.334Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:13.587Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:13.593Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:40:13.595Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:40:13.596Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:13.606Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:13.623Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:40:13.624Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:40:13.628Z"}
+{"level":"info","message":"CREATE REMOTE TERMINAL MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:44.406Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:44.561Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:50.593Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:50.599Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:40:50.600Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:40:50.605Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:50.642Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:50.647Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:40:50.648Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:40:50.649Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:59.251Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:59.253Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:59.266Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:40:59.276Z"}
+{"level":"info","message":"IMPORT MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:41:11.906Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:41:14.971Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:41:14.973Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:41:14.987Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:41:14.998Z"}
+{"level":"info","message":"IMPORT MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:43:55.596Z"}
+{"level":"info","message":"IMPORT MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:44:02.158Z"}
+{"level":"info","message":"IMPORT MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:47:12.655Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:47:16.532Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:47:16.534Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:47:16.557Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:47:16.560Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:48:36.400Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:48:36.412Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:48:37.164Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:48:37.191Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:48:42.472Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:48:42.475Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:48:42.479Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:48:42.484Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:48:42.505Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:48:42.506Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:48:42.527Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:48:42.528Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:49:04.029Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:49:04.031Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:49:04.032Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:49:04.039Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:49:04.054Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:49:04.059Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:49:04.061Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:49:04.062Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:49:05.542Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:49:05.544Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:49:05.556Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:49:05.580Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:49:06.884Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:49:06.899Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:49:07.517Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:49:07.520Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:49:07.521Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:49:07.526Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:49:07.547Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-17T16:49:07.550Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:49:07.556Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-17T16:49:07.562Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T03:57:29.631Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T03:57:29.654Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T03:57:29.660Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T03:57:29.664Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T03:57:29.742Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T03:57:29.745Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T03:57:29.747Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T03:57:29.749Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T03:57:36.390Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T03:57:36.460Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T03:57:38.661Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T03:57:38.665Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T03:57:38.697Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T03:57:38.703Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T03:59:34.735Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T03:59:34.763Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T03:59:34.766Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T03:59:34.770Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T03:59:34.779Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T03:59:34.781Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T03:59:34.783Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T03:59:34.784Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T03:59:37.549Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T03:59:37.552Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T03:59:37.563Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T03:59:37.565Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T03:59:38.144Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T03:59:38.170Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T03:59:42.509Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T03:59:42.511Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T03:59:42.515Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T03:59:42.516Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T03:59:42.533Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T03:59:42.542Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T03:59:42.542Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T03:59:42.543Z"}
+{"level":"info","message":"CREATE REMOTE TERMINAL MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:00:27.712Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:00:27.865Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:00:38.877Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:00:38.878Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:00:38.898Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:00:38.902Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:00:42.778Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:00:42.789Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:00:43.618Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:00:44.475Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:00:44.480Z"}
+{"level":"info","message":"IMPORT MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:00:59.728Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:01:01.825Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:01:01.826Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:01:01.833Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:01:01.837Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:01:08.301Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:01:08.303Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:01:08.305Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:01:08.305Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:01:08.312Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:01:08.322Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:01:08.328Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:01:08.328Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:01:09.742Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:01:09.752Z"}
+{"level":"info","message":"IMPORT MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:01:17.674Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:01:59.321Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:01:59.322Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:01:59.344Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:01:59.348Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:02:02.020Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:02:02.022Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:02:02.026Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:02:02.030Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:02:02.048Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:02:02.053Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:02:02.054Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:02:02.059Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:02:06.221Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:02:06.223Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:02:06.224Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:02:06.233Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:02:06.296Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:02:06.300Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:02:06.304Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:02:06.304Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:05:16.417Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:05:16.419Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:05:16.419Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:05:16.420Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:05:16.436Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:05:16.443Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:05:16.443Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:05:16.444Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:05:18.001Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:05:18.002Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:05:18.007Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:05:18.009Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:05:19.087Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:05:19.102Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:05:19.999Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:05:20.006Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:05:23.317Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:05:23.319Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:05:23.320Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:05:23.320Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:05:23.325Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:05:23.335Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:05:23.336Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T04:05:23.337Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:05:27.478Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:05:27.478Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:05:27.484Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:05:27.485Z"}
+{"level":"info","message":"IMPORT MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:31:44.838Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:31:50.467Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:31:50.470Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:31:50.489Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:31:50.490Z"}
+{"level":"info","message":"IMPORT MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:32:06.377Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:32:32.353Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:32:32.356Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:32:32.386Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:32:32.388Z"}
+{"level":"info","message":"IMPORT MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:44:16.426Z"}
+{"level":"info","message":"IMPORT MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:50:49.336Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:50:54.946Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:50:54.949Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:50:54.967Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:50:54.974Z"}
+{"level":"info","message":"IMPORT MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:51:06.884Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:51:40.253Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:51:40.255Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:51:40.272Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:51:40.277Z"}
+{"level":"info","message":"IMPORT MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:52:00.167Z"}
+{"level":"info","message":"IMPORT MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T04:52:06.190Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T05:35:29.113Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T05:35:29.118Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T05:35:29.120Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T05:35:29.122Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T05:35:32.971Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T05:35:35.608Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T05:35:35.611Z"}
+{"level":"info","message":"IMPORT MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T05:35:46.209Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T05:40:41.066Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T05:40:41.068Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T05:40:41.071Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T05:40:41.072Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T05:41:05.105Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T05:41:05.107Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T05:41:05.109Z"}
+{"level":"info","service":"user-service","timestamp":"2026-09-18T05:41:05.109Z"}
+{"level":"info","message":"CREATE REMOTE TERMINAL MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T05:41:33.765Z"}
+{"level":"info","message":"GET ALL REMOTE TERMINAL LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T05:41:33.877Z"}
+{"level":"info","message":"GET ALL MESSAGE MAINTENANCE API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T05:41:38.437Z"}
+{"level":"info","message":"GET ALL BUS LIST API HAS BEEN HIT","service":"user-service","timestamp":"2026-09-18T05:41:38.440Z"}
